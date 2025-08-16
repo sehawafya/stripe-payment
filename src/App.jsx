@@ -14,7 +14,7 @@ const packages = [
     priceAr: "250 درهم",
     priceEn: "250 AED",
     link: "https://buy.stripe.com/00wbJ0bfp9Q9c2Sd0N5EY13",
-    image: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-2934-620a-a3ae-9be7539cb80b/raw?se=2025-08-16T14%3A44%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=aa293e79-6ab8-590b-86af-9bbbbfa1f311&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-16T00%3A25%3A54Z&ske=2025-08-17T00%3A25%3A54Z&sks=b&skv=2024-08-04&sig=5RMudKSbAfBRsyhDDuDgZG0iPxYNcBWZbmXVJJPsevs%3D",
+    image: "public/chat.png",
   },
   {
     titleAr: "إستشارة ومتابعة عبر تطبيق صحة و عافية لمدة شهر",
@@ -26,7 +26,7 @@ const packages = [
     priceAr: "350 درهم",
     priceEn: "350 AED",
     link: "https://buy.stripe.com/4gMfZgerBaUd8QGbWJ5EY11",
-    image: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-2934-620a-a3ae-9be7539cb80b/raw?se=2025-08-16T14%3A44%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=aa293e79-6ab8-590b-86af-9bbbbfa1f311&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-16T00%3A25%3A54Z&ske=2025-08-17T00%3A25%3A54Z&sks=b&skv=2024-08-04&sig=5RMudKSbAfBRsyhDDuDgZG0iPxYNcBWZbmXVJJPsevs%3D",
+    image: "public/chat.png",
   },
   {
     titleAr:
@@ -39,7 +39,7 @@ const packages = [
     priceAr: "500 درهم",
     priceEn: "500 AED",
     link: "https://buy.stripe.com/9B6bJ0dnx0fzeb0gcZ5EY12",
-    image: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-d984-620a-b6eb-4a396ee9404b/raw?se=2025-08-16T14%3A42%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=ad271aab-fea3-5446-9653-882b07fd2a10&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-16T06%3A53%3A27Z&ske=2025-08-17T06%3A53%3A27Z&sks=b&skv=2024-08-04&sig=aE2NG0M5Pa5TgQVSMti/9RGRS5Eq8iqrqpLiD5cJT68%3D",
+    image: "public/call.png",
   },
 
   {
@@ -52,7 +52,7 @@ const packages = [
     priceAr: "900 درهم",
     priceEn: "900 AED",
     link: "https://buy.stripe.com/4gMdR85V5d2l2si2m95EY14",
-    image: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-2934-620a-a3ae-9be7539cb80b/raw?se=2025-08-16T14%3A44%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=aa293e79-6ab8-590b-86af-9bbbbfa1f311&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-16T00%3A25%3A54Z&ske=2025-08-17T00%3A25%3A54Z&sks=b&skv=2024-08-04&sig=5RMudKSbAfBRsyhDDuDgZG0iPxYNcBWZbmXVJJPsevs%3D",
+    image: "public/chat.png",
   },
   {
     titleAr: "باقة 6 شهور متابعة عبر تطبيق صحة و عافية",
@@ -64,7 +64,7 @@ const packages = [
     priceAr: "1800 درهم",
     priceEn: "1800 AED",
     link: "https://buy.stripe.com/eVqaEW97h3rL0kae4R5EY15",
-    image: "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-2934-620a-a3ae-9be7539cb80b/raw?se=2025-08-16T14%3A44%3A33Z&sp=r&sv=2024-08-04&sr=b&scid=aa293e79-6ab8-590b-86af-9bbbbfa1f311&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-16T00%3A25%3A54Z&ske=2025-08-17T00%3A25%3A54Z&sks=b&skv=2024-08-04&sig=5RMudKSbAfBRsyhDDuDgZG0iPxYNcBWZbmXVJJPsevs%3D",
+    image: "public/chat.png",
   },
 ];
 
