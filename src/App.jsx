@@ -14,7 +14,7 @@ const packages = [
     priceAr: "250 درهم",
     priceEn: "250 AED",
     link: "https://buy.stripe.com/00wbJ0bfp9Q9c2Sd0N5EY13",
-    image: "public/chat.png",
+    image: "/chat.png",
   },
   {
     titleAr: "إستشارة ومتابعة عبر تطبيق صحة و عافية لمدة شهر",
@@ -26,7 +26,7 @@ const packages = [
     priceAr: "350 درهم",
     priceEn: "350 AED",
     link: "https://buy.stripe.com/4gMfZgerBaUd8QGbWJ5EY11",
-    image: "public/chat.png",
+    image: "/chat.png",
   },
   {
     titleAr:
@@ -39,7 +39,7 @@ const packages = [
     priceAr: "500 درهم",
     priceEn: "500 AED",
     link: "https://buy.stripe.com/9B6bJ0dnx0fzeb0gcZ5EY12",
-    image: "public/call.png",
+    image: "/call.png",
   },
 
   {
@@ -52,7 +52,7 @@ const packages = [
     priceAr: "900 درهم",
     priceEn: "900 AED",
     link: "https://buy.stripe.com/4gMdR85V5d2l2si2m95EY14",
-    image: "public/chat.png",
+    image: "/chat.png",
   },
   {
     titleAr: "باقة 6 شهور متابعة عبر تطبيق صحة و عافية",
@@ -64,7 +64,7 @@ const packages = [
     priceAr: "1800 درهم",
     priceEn: "1800 AED",
     link: "https://buy.stripe.com/eVqaEW97h3rL0kae4R5EY15",
-    image: "public/chat.png",
+    image: "/chat.png",
   },
 ];
 
