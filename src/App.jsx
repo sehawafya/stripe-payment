@@ -86,7 +86,7 @@ export default function App() {
           {/* الصورة */}
           <div className="mb-3 mb-md-0">
             <img
-              src="https://scontent.fcai20-5.fna.fbcdn.net/v/t39.30808-6/504194624_122161762406429437_6570349462854279674_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=E7yNcHNIqKEQ7kNvwHXrCz8&_nc_oc=AdkdrXGJ8jHS4SdP5-E43m2DPdUceL7_8Ju6XSXsn7dx-aWclLXf9OfwzQDcZJsK6Qc&_nc_zt=23&_nc_ht=scontent.fcai20-5.fna&_nc_gid=0BZq68jHx1vsPSuBmDT59w&oh=00_AfV2wEZP3Jwz-FTDEUXmHeRvMClBeJenemULg5daDj9wTQ&oe=68A646E8"
+              src="/mo_saieed.jpg"
               alt="دكتور محمد سعيد"
               className="rounded-circle shadow"
               style={{ width: "250px", height: "250px", objectFit: "cover" }}
