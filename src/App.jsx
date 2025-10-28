@@ -150,7 +150,7 @@ export default function App() {
       <main className="container py-5">
         <div className="row g-4">
           {packages.map((pkg, i) => (
-            <div className="col-12 col-md-6" key={i}>
+            <div className="col-12 col-md-6 col-lg-4" key={i}>
               <motion.div
                 whileHover={{ scale: 1.05 }}
                 className="card shadow border-0 h-100"
