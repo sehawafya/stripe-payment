@@ -49,9 +49,9 @@ const packages = [
       "أفضل خيار لنتائج مستدامة على المدى الطويل. خطة متكاملة مع متابعة دقيقة شهرية لتغيير نمط حياتك للأفضل.",
     descEn:
       "The best choice for long-term sustainable results. A comprehensive plan with monthly follow-ups to transform your lifestyle for the better.",
-    priceAr: "750 درهم",
-    priceEn: "750 AED",
-    link: "https://buy.stripe.com/dRm6oGerBaUd4Aqd0N5EY19",
+    priceAr: "900 درهم",
+    priceEn: "900 AED",
+    link: "https://buy.stripe.com/28EeVc2IT1jD6IygcZ5EY1e",
     image: "/chat.png",
   },
   {
@@ -61,10 +61,36 @@ const packages = [
       "رحلة متكاملة لتحسين صحتك ونمط حياتك على المدى الطويل. متابعة نصف سنوية دقيقة مع خطط غذائية متجددة باستمرار.",
     descEn:
       "A complete journey to improve your health and lifestyle in the long term. Half-yearly follow-up with continuously updated nutrition plans.",
+    priceAr: "1500 درهم",
+    priceEn: "1500 AED",
+    link: "https://buy.stripe.com/aFadR8erB2nH8QGaSF5EY1f",
+    image: "/chat.png",
+  },
+
+  // باقة 3 شهور و 6 شهور مع مكالمة 
+  {
+    titleAr: "باقة مكالمة صوتية + 3 شهور متابعة عبر تطبيق صحة و عافية",
+    titleEn: "Voice call + 3-Month Follow-up via Seha & Afia App",
+    descAr:
+      "أفضل خيار لنتائج مستدامة على المدى الطويل. خطة متكاملة مع متابعة دقيقة شهرية لتغيير نمط حياتك للأفضل.",
+    descEn:
+      "The best choice for long-term sustainable results. A comprehensive plan with monthly follow-ups to transform your lifestyle for the better.",
     priceAr: "1200 درهم",
     priceEn: "1200 AED",
     link: "https://buy.stripe.com/5kQaEW3MX3rLff45yl5EY1a",
-    image: "/chat.png",
+    image: "/call.png",
+  },
+  {
+    titleAr: "باقةي مكالمة صوتية + 6 شهور متابعة عبر تطبيق صحة و عافية",
+    titleEn: "Voice call +6-Month Follow-up via Seha & Afia App",
+    descAr:
+      "رحلة متكاملة لتحسين صحتك ونمط حياتك على المدى الطويل. متابعة نصف سنوية دقيقة مع خطط غذائية متجددة باستمرار.",
+    descEn:
+      "A complete journey to improve your health and lifestyle in the long term. Half-yearly follow-up with continuously updated nutrition plans.",
+    priceAr: "1800 درهم",
+    priceEn: "1800 AED",
+    link: "https://buy.stripe.com/9B68wO83d2nH4Aq1i55EY1d",
+    image: "/call.png",
   },
 ];
 
